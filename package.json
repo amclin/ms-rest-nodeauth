@@ -44,7 +44,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@ts-common/azure-js-dev-tools": "^0.4.9",
+    "@ts-common/azure-js-dev-tools": "^22.3.0",
     "@types/chai": "^4.1.6",
     "@types/mocha": "^5.2.5",
     "@types/node": "^10.12.0",
